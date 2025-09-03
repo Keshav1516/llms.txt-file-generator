@@ -1,4 +1,4 @@
-# LLMs.txt Generator for SEO 🌐
+# LLMs.txt Generator for GEO & SEO 🌐
 --------------------------------
 A **Streamlit web app** that automatically generates an LLMs.txt file for any website. The app fetches the homepage content, pages, and blog posts, then organizes them into a structured format suitable for SEO and content analysis.
 
